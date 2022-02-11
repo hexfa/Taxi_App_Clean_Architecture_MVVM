@@ -2,6 +2,7 @@
 
 Clean Code Map & List by Clean Architecture & MVVM with Test code
 <br>
+<br><img src="https://hexfa.com/addon/json/git/taxi/taxi.gif" width="200" height="400" />
 <h3>An application which has 3 major Duty:</h3>
 1.Receive the data from Remote(End Point) which it is some useful vehicle- information provided by Json
 <br>2.Showing the list of our vehicles which is done in this project in
