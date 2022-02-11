@@ -2,6 +2,13 @@
 
 Clean Code Map & List by Clean Architecture & MVVM with Test code
 <br>
+<h3> Demo of App:</h3>
+1- Refreshing
+<br>2- Select a car on List
+<br>3- Select a car on Map<br>
+<br><img src="https://hexfa.com/addon/json/git/taxi/1.gif" width="200" height="400" />
+<img src="https://hexfa.com/addon/json/git/taxi/2.gif" width="200" height="400" />
+<img src="https://hexfa.com/addon/json/git/taxi/3.gif" width="200" height="400" />
 <h3>An application which has 3 major Duty:</h3>
 1.Receive the data from Remote(End Point) which it is some useful vehicle- information provided by Json
 <br>2.Showing the list of our vehicles which is done in this project in
